@@ -1,0 +1,39 @@
+_repo: History-of-English-Literature-Volume-1-of-3_61308
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Clark, J. Scott
+    gutenberg_agent_id: '51350'
+    url: http://www.gutenberg.org/2009/agents/51350
+  translator:
+    agent_name: Laun, Henry Van
+    gutenberg_agent_id: '51351'
+    url: http://www.gutenberg.org/2009/agents/51351
+creator:
+  author:
+    agent_name: Taine, Hippolyte
+    aliases:
+    - Graindorge, Frédéric-Thomas
+    - Taine, Hippolyte Adolphe
+    - Graindorge, Frederic-Thomas
+    - Taine, H. A. (Hippolyte Adolphe)
+    birthdate: 1828
+    deathdate: 1893
+    gutenberg_agent_id: '969'
+    url: http://www.gutenberg.org/2009/agents/969
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Hippolyte_Taine
+    - http://fr.wikipedia.org/wiki/Hippolyte_Taine
+description: ''
+gutenberg_issued: '2020-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61308'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: History of English Literature Volume 1 (of 3)
+url: http://www.gutenberg.org/ebooks/61308
